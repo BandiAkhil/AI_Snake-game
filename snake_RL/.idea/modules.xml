@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Giel_snake/.idea/Giel_snake.iml" filepath="$PROJECT_DIR$/../Giel_snake/.idea/Giel_snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SNAKE_CODE_UNCOMMENTED/.idea/SNAKE_CODE_UNCOMMENTED.iml" filepath="$PROJECT_DIR$/../SNAKE_CODE_UNCOMMENTED/.idea/SNAKE_CODE_UNCOMMENTED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snake_RL.iml" filepath="$PROJECT_DIR$/.idea/snake_RL.iml" />
+    </modules>
+  </component>
+</project>
